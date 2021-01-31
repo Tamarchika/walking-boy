@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url("nature.png"), url("pngegg.png");
+    background-size: cover , cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+#boy {
+    position: absolute;
+    bottom: 0;
+}
